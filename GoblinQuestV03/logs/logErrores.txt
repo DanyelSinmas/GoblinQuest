@@ -1,0 +1,167 @@
+1. Fecha error: 2025/6/3 a las 20:18 horas. Descripcion: java.util.InputMismatchException
+2. Fecha error: 2025/6/3 a las 20:18 horas. Descripcion: java.util.InputMismatchException
+3. Fecha error: 2025/6/3 a las 20:19 horas. Descripcion: java.util.InputMismatchException
+4. Fecha error: 2025/6/4 a las 17:51 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.accionObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+5. Fecha error: 2025/6/4 a las 18:11 horas. Descripcion: java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 1
+6. Fecha error: 2025/6/4 a las 18:11 horas. Descripcion: java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+7. Fecha error: 2025/6/4 a las 18:16 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+8. Fecha error: 2025/6/4 a las 19:31 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+9. Fecha error: 2025/6/4 a las 19:37 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+10. Fecha error: 2025/6/4 a las 19:39 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+11. Fecha error: 2025/6/4 a las 19:43 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+12. Fecha error: 2025/6/4 a las 19:44 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+13. Fecha error: 2025/6/4 a las 19:51 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+14. Fecha error: 2025/6/4 a las 19:54 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Personajes.Protagonista.getVida()" because "this.usador" is null
+15. Fecha error: 2025/6/4 a las 20:22 horas. Descripcion: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+16. Fecha error: 2025/6/4 a las 20:25 horas. Descripcion: java.util.InputMismatchException
+17. Fecha error: 2025/6/10 a las 23:14 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+18. Fecha error: 2025/6/10 a las 23:54 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+19. Fecha error: 2025/6/10 a las 23:54 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+20. Fecha error: 2025/6/11 a las 0:3 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+21. Fecha error: 2025/6/11 a las 0:8 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+22. Fecha error: 2025/6/11 a las 0:10 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+23. Fecha error: 2025/6/11 a las 0:11 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+24. Fecha error: 2025/6/11 a las 0:13 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+25. Fecha error: 2025/6/11 a las 0:14 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+26. Fecha error: 2025/6/11 a las 0:15 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+27. Fecha error: 2025/6/11 a las 0:17 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+28. Fecha error: 2025/6/11 a las 0:18 horas. Descripcion: java.lang.UnsupportedOperationException: Not supported yet.
+29. Fecha error: 2025/6/11 a las 0:21 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+30. Fecha error: 2025/6/11 a las 0:22 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+31. Fecha error: 2025/6/11 a las 0:24 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.getNombreObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+32. Fecha error: 2025/6/11 a las 0:27 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+33. Fecha error: 2025/6/11 a las 0:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+34. Fecha error: 2025/6/11 a las 0:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+35. Fecha error: 2025/6/11 a las 0:33 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+36. Fecha error: 2025/6/11 a las 2:7 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+37. Fecha error: 2025/6/11 a las 18:17 horas. Descripcion: java.io.InvalidClassException: Personajes.Protagonista; no valid constructor
+38. Fecha error: 2025/6/11 a las 18:20 horas. Descripcion: java.io.InvalidClassException: Personajes.Protagonista; no valid constructor
+39. Fecha error: 2025/6/11 a las 18:24 horas. Descripcion: java.io.InvalidClassException: Personajes.Protagonista; no valid constructor
+40. Fecha error: 2025/6/11 a las 18:28 horas. Descripcion: java.io.InvalidClassException: Personajes.Protagonista; local class incompatible: stream classdesc serialVersionUID = -903883828771023764, local class serialVersionUID = -6976282579974937149
+41. Fecha error: 2025/6/11 a las 18:29 horas. Descripcion: java.io.InvalidClassException: Personajes.Protagonista; no valid constructor
+42. Fecha error: 2025/6/11 a las 18:39 horas. Descripcion: java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: Mapa.CasillaSuelo
+43. Fecha error: 2025/6/11 a las 18:51 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+44. Fecha error: 2025/6/11 a las 19:36 horas. Descripcion: java.io.EOFException
+45. Fecha error: 2025/6/11 a las 19:43 horas. Descripcion: java.io.EOFException
+46. Fecha error: 2025/6/11 a las 19:44 horas. Descripcion: java.io.EOFException
+47. Fecha error: 2025/6/11 a las 19:50 horas. Descripcion: java.io.EOFException
+48. Fecha error: 2025/6/11 a las 19:57 horas. Descripcion: java.io.EOFException
+49. Fecha error: 2025/6/11 a las 20:4 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+50. Fecha error: 2025/6/11 a las 20:10 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+51. Fecha error: 2025/6/11 a las 20:24 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+52. Fecha error: 2025/6/11 a las 20:25 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 5
+53. Fecha error: 2025/6/11 a las 20:29 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+54. Fecha error: 2025/6/11 a las 20:44 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+55. Fecha error: 2025/6/11 a las 21:11 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+56. Fecha error: 2025/6/11 a las 23:2 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+57. Fecha error: 2025/6/11 a las 23:3 horas. Descripcion: java.io.StreamCorruptedException: invalid type code: AC
+58. Fecha error: 2025/6/11 a las 23:5 horas. Descripcion: java.io.EOFException
+59. Fecha error: 2025/6/11 a las 23:6 horas. Descripcion: java.io.EOFException
+60. Fecha error: 2025/6/11 a las 23:26 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+61. Fecha error: 2025/6/11 a las 23:28 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+62. Fecha error: 2025/6/11 a las 23:29 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+63. Fecha error: 2025/6/11 a las 23:29 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+64. Fecha error: 2025/6/11 a las 23:35 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+65. Fecha error: 2025/6/11 a las 23:35 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+66. Fecha error: 2025/6/11 a las 23:35 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+67. Fecha error: 2025/6/11 a las 23:37 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+68. Fecha error: 2025/6/11 a las 23:42 horas. Descripcion: java.util.InputMismatchException
+69. Fecha error: 2025/6/11 a las 23:43 horas. Descripcion: java.util.InputMismatchException
+70. Fecha error: 2025/6/13 a las 4:44 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 10
+71. Fecha error: 2025/6/13 a las 4:49 horas. Descripcion: java.util.InputMismatchException
+72. Fecha error: 2025/6/13 a las 4:54 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.getNombreObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+73. Fecha error: 2025/6/13 a las 5:22 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.getNombreObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+74. Fecha error: 2025/6/13 a las 5:44 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+75. Fecha error: 2025/6/16 a las 22:1 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Mapa.Casilla.evento(Personajes.Protagonista)" because "this.mapa[Personajes.Protagonista.getPosicionY()][Personajes.Protagonista.getPosicionX()]" is null
+76. Fecha error: 2025/6/16 a las 22:14 horas. Descripcion: java.lang.RuntimeException: Uncompilable code - illegal start of expression
+77. Fecha error: 2025/6/16 a las 22:14 horas. Descripcion: java.lang.RuntimeException: Uncompilable code - illegal start of expression
+78. Fecha error: 2025/6/16 a las 22:15 horas. Descripcion: java.lang.RuntimeException: Uncompilable code - illegal start of expression
+79. Fecha error: 2025/6/19 a las 16:16 horas. Descripcion: java.util.InputMismatchException
+80. Fecha error: 2025/6/19 a las 16:17 horas. Descripcion: java.util.InputMismatchException
+81. Fecha error: 2025/6/19 a las 16:18 horas. Descripcion: java.util.InputMismatchException
+82. Fecha error: 2025/6/19 a las 16:18 horas. Descripcion: java.util.InputMismatchException
+83. Fecha error: 2025/6/19 a las 16:20 horas. Descripcion: java.util.InputMismatchException
+84. Fecha error: 2025/6/19 a las 16:21 horas. Descripcion: java.util.InputMismatchException
+85. Fecha error: 2025/6/19 a las 16:21 horas. Descripcion: java.util.InputMismatchException
+86. Fecha error: 2025/6/19 a las 16:22 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+87. Fecha error: 2025/6/19 a las 16:24 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+88. Fecha error: 2025/6/19 a las 16:25 horas. Descripcion: java.util.InputMismatchException
+89. Fecha error: 2025/6/19 a las 16:25 horas. Descripcion: java.util.InputMismatchException
+90. Fecha error: 2025/6/19 a las 16:25 horas. Descripcion: java.util.InputMismatchException
+91. Fecha error: 2025/6/19 a las 16:30 horas. Descripcion: java.util.InputMismatchException
+92. Fecha error: 2025/6/19 a las 16:30 horas. Descripcion: java.util.InputMismatchException
+93. Fecha error: 2025/6/19 a las 16:30 horas. Descripcion: java.util.InputMismatchException
+94. Fecha error: 2025/6/19 a las 16:32 horas. Descripcion: java.util.InputMismatchException
+95. Fecha error: 2025/6/19 a las 17:3 horas. Descripcion: java.util.InputMismatchException
+96. Fecha error: 2025/6/20 a las 15:26 horas. Descripcion: java.util.InputMismatchException
+97. Fecha error: 2025/6/20 a las 15:26 horas. Descripcion: java.util.InputMismatchException
+98. Fecha error: 2025/6/20 a las 15:31 horas. Descripcion: java.util.InputMismatchException
+99. Fecha error: 2025/6/20 a las 15:36 horas. Descripcion: java.util.InputMismatchException
+100. Fecha error: 2025/6/20 a las 15:36 horas. Descripcion: java.util.InputMismatchException
+101. Fecha error: 2025/6/20 a las 16:36 horas. Descripcion: java.util.InputMismatchException
+102. Fecha error: 2025/6/20 a las 16:36 horas. Descripcion: java.util.InputMismatchException
+103. Fecha error: 2025/6/20 a las 16:36 horas. Descripcion: java.util.InputMismatchException
+104. Fecha error: 2025/6/20 a las 16:36 horas. Descripcion: java.util.InputMismatchException
+105. Fecha error: 2025/6/20 a las 16:37 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+105. Fecha error: 2025/6/20 a las 16:37 horas. Descripcion: java.util.InputMismatchException
+106. Fecha error: 2025/6/20 a las 16:37 horas. Descripcion: java.util.InputMismatchException
+107. Fecha error: 2025/6/20 a las 16:42 horas. Descripcion: java.util.InputMismatchException
+108. Fecha error: 2025/6/20 a las 16:52 horas. Descripcion: java.util.InputMismatchException
+109. Fecha error: 2025/6/20 a las 18:22 horas. Descripcion: java.util.InputMismatchException
+110. Fecha error: 2025/6/20 a las 18:23 horas. Descripcion: java.util.InputMismatchException
+111. Fecha error: 2025/6/22 a las 18:50 horas. Descripcion: java.util.InputMismatchException
+112. Fecha error: 2025/6/22 a las 18:50 horas. Descripcion: java.util.InputMismatchException
+113. Fecha error: 2025/6/22 a las 18:50 horas. Descripcion: java.util.InputMismatchException
+114. Fecha error: 2025/6/22 a las 19:36 horas. Descripcion: java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+115. Fecha error: 2025/6/22 a las 19:36 horas. Descripcion: java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+116. Fecha error: 2025/6/23 a las 13:27 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+117. Fecha error: 2025/6/23 a las 13:27 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+118. Fecha error: 2025/6/23 a las 13:27 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+119. Fecha error: 2025/6/23 a las 13:28 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+120. Fecha error: 2025/6/23 a las 13:28 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+121. Fecha error: 2025/6/23 a las 13:28 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+122. Fecha error: 2025/6/23 a las 13:29 horas. Descripcion: java.util.InputMismatchException
+123. Fecha error: 2025/6/23 a las 13:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+124. Fecha error: 2025/6/23 a las 13:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+125. Fecha error: 2025/6/23 a las 13:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+126. Fecha error: 2025/6/23 a las 13:29 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+127. Fecha error: 2025/6/23 a las 13:30 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+128. Fecha error: 2025/6/23 a las 13:30 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+129. Fecha error: 2025/6/23 a las 13:32 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+130. Fecha error: 2025/6/23 a las 13:32 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+131. Fecha error: 2025/6/23 a las 13:32 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+132. Fecha error: 2025/6/23 a las 13:32 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+133. Fecha error: 2025/6/23 a las 13:35 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+134. Fecha error: 2025/6/23 a las 14:6 horas. Descripcion: java.util.InputMismatchException
+135. Fecha error: 2025/6/23 a las 14:6 horas. Descripcion: java.util.InputMismatchException
+136. Fecha error: 2025/6/23 a las 14:12 horas. Descripcion: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+137. Fecha error: 2025/6/23 a las 14:23 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+138. Fecha error: 2025/6/23 a las 14:35 horas. Descripcion: java.lang.NullPointerException: Cannot load from object array because the return value of "Herramientas.Guardado.cargar(int)" is null
+139. Fecha error: 2025/6/23 a las 15:12 horas. Descripcion: java.util.InputMismatchException
+140. Fecha error: 2025/6/24 a las 13:32 horas. Descripcion: java.util.InputMismatchException
+141. Fecha error: 2025/6/24 a las 14:9 horas. Descripcion: java.util.InputMismatchException
+142. Fecha error: 2025/6/24 a las 14:10 horas. Descripcion: java.util.InputMismatchException
+143. Fecha error: 2025/6/24 a las 14:15 horas. Descripcion: java.util.InputMismatchException
+144. Fecha error: 2025/6/24 a las 15:1 horas. Descripcion: java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 10
+145. Fecha error: 2025/6/24 a las 15:10 horas. Descripcion: java.util.InputMismatchException
+146. Fecha error: 2025/6/24 a las 15:12 horas. Descripcion: java.util.InputMismatchException
+147. Fecha error: 2025/6/24 a las 16:0 horas. Descripcion: java.util.InputMismatchException
+148. Fecha error: 2025/6/24 a las 16:0 horas. Descripcion: java.util.InputMismatchException
+149. Fecha error: 2025/6/24 a las 16:0 horas. Descripcion: java.util.InputMismatchException
+150. Fecha error: 2025/6/24 a las 16:4 horas. Descripcion: java.util.InputMismatchException
+151. Fecha error: 2025/6/24 a las 16:23 horas. Descripcion: java.util.InputMismatchException
+152. Fecha error: 2025/6/24 a las 16:27 horas. Descripcion: java.util.InputMismatchException
+153. Fecha error: 2025/6/24 a las 16:27 horas. Descripcion: java.util.InputMismatchException
+154. Fecha error: 2025/6/24 a las 16:27 horas. Descripcion: java.util.InputMismatchException
+155. Fecha error: 2025/6/24 a las 16:49 horas. Descripcion: java.util.InputMismatchException
+156. Fecha error: 2025/6/24 a las 16:50 horas. Descripcion: java.util.InputMismatchException
+157. Fecha error: 2025/6/24 a las 16:57 horas. Descripcion: java.util.InputMismatchException
+158. Fecha error: 2025/6/24 a las 16:59 horas. Descripcion: java.util.InputMismatchException
+157. Fecha error: 2025/6/24 a las 16:56 horas. Descripcion: java.util.InputMismatchException
+158. Fecha error: 2025/6/24 a las 17:48 horas. Descripcion: java.util.InputMismatchException
+159. Fecha error: 2025/6/24 a las 17:48 horas. Descripcion: java.util.InputMismatchException
+158. Fecha error: 2025/6/24 a las 17:46 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.getNombreObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+159. Fecha error: 2025/6/24 a las 17:46 horas. Descripcion: java.lang.NullPointerException: Cannot invoke "Objetos.Objeto.getNombreObjeto()" because the return value of "Personajes.Inventario.getObjeto(int)" is null
+160. Fecha error: 2025/6/24 a las 17:50 horas. Descripcion: java.util.InputMismatchException
